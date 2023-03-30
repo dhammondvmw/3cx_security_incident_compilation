@@ -41,8 +41,22 @@ fee4f9dabc094df24d83ec1a8c4e4ff573e5d9973caa676f58086c99561382d7
 Network Indicators:
 
 https://raw.githubusercontent[].com/IconStorages/images/main/icon%d.ico
-
+officestoragebox[.]com/api/biosync
+visualstudiofactory[.]com/groupcore
+azuredeploystore[.]com/cloud/images
+msstorageboxes[.]com/xbox
+officeaddons[.]com/quality
+sourceslabs[.]com/status
+acharryblogs[.]com/xmlquery
+pbxcloudeservices[.]com/network
+pbxphonenetwork[.]com/phone
+akamaitechcloudservices[.]com/v2/fileapi
+azureonlinestorage[.]com/google/storage
+msedgepackageinfo[.]com/ms-webview
+glcloudservice[.]com/v1/status
+pbxsources[.]com/queue
 
 
 References:
 
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/3cx-supply-chain-attack
