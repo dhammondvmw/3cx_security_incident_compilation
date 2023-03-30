@@ -41,6 +41,7 @@ fee4f9dabc094df24d83ec1a8c4e4ff573e5d9973caa676f58086c99561382d7
 Network Indicators:
 
 https://raw.githubusercontent[].com/IconStorages/images/main/icon%d.ico
+
 officestoragebox[.]com/api/biosync
 visualstudiofactory[.]com/groupcore
 azuredeploystore[.]com/cloud/images
