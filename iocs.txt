@@ -90,3 +90,5 @@ References:
 
 https://www.crowdstrike.com/blog/crowdstrike-detects-and-prevents-active-intrusion-campaign-targeting-3cxdesktopapp-customers/
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/3cx-supply-chain-attack
+https://www.sentinelone.com/blog/smoothoperator-ongoing-campaign-trojanizes-3cx-software-in-software-supply-chain-attack/
+
